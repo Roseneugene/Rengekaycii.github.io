@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+      <head>
+      <title>technophysics</title>
+      </head>
+      <body>
+     
+       <h1>everything you ned to know</>
+       <p>the advancement of techonolgy hasbrought much changes!<br>
+         The world is trying to cope up with these changes.
+        much was happening till recently...</p>
